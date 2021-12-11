@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @eniskastrati
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning C#, JavaScript
