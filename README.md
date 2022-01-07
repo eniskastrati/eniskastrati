@@ -27,6 +27,7 @@
 
 <br />
 <br />
+![Enis's github stats](https://github-readme-stats.vercel.app/api?username=eniskastrati)
 
 [website]: https://www.eniskastrati.de/
 [linkedin]: https://www.linkedin.com/in/eniskastrati/
