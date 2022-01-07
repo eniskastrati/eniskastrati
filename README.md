@@ -27,7 +27,7 @@
 
 <br />
 <br />
-https://github-readme-stats.vercel.app/api?username=eniskastrati
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eniskastrati&theme=radical)
 
 [website]: https://www.eniskastrati.de/
 [linkedin]: https://www.linkedin.com/in/eniskastrati/
