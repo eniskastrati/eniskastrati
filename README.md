@@ -3,13 +3,10 @@
 I am a self-taught Developer,
 currently _working & studying_ as a **Full Stack Developer** in Germany
 - 🌱 I’m interested in Tech
-- 👀 I’m I’m currenly learning React JS, React Native, Node Js, C#
+- 👀 Currenly working with: React JS, React Native, Node Js, C#
 - 🔭 I'm constantly improving my programming skills by working on different Projects
 
 
-![Profile views](https://gpvc.arturio.dev/eniskastrati) 
-
-<br />
 <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=eniskastrati&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight"
     alt="My Github Stats" />
@@ -21,8 +18,7 @@ currently _working & studying_ as a **Full Stack Developer** in Germany
 
 [<img align="center" alt="eniskastrati.com" width="27px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="eniskastrati | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-#### Languages and Tools:
+#### Stack:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
