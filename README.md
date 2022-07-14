@@ -7,10 +7,10 @@ currently _working & studying_ as a **Full Stack Developer** in Germany
 - 🔭 I'm constantly improving my programming skills by working on different Projects
 
 
-<img align="center"
+<img align="center" width="367px"
     src="https://github-readme-stats.vercel.app/api?username=eniskastrati&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight"
     alt="My Github Stats" />
-<img align="center"
+<img align="center" width="310px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniskastrati&langs_count=10&layout=compact&theme=material-palenight" />
 </a>
 
