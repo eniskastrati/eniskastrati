@@ -5,7 +5,7 @@ A software developer from Stuttgart, Germany. I have a passion for programming a
 - 👀 Currenly working with: C#, TypeScript, NodeJS, React Js & Native, Cloud Architecture, Docker 
 - 🔭 I'm constantly improving my programming skills by working on different Projects
 
-<img align="center" width="367px"
+<img align="center" width="500px"
     src="https://github-readme-stats.vercel.app/api?username=eniskastrati&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight"
     alt="My Github Stats" />
 
