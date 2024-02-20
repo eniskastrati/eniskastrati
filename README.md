@@ -11,8 +11,7 @@ A software developer from Stuttgart, Germany. I have a passion for programming a
  alt="My Github Stats" 
  />
  -->
- 
-<a href="https://app.daily.dev/enis"><img src="https://api.daily.dev/devcards/1aef057ab4dc4f538551ceb9d20a9850.png?r=7nz" align="center" width="400" alt="Enis Kastrati's Dev Card"/></a>
+<a href="https://app.daily.dev/enis"><img src="https://api.daily.dev/devcards/v2/1oAPWzajw.png?r=ldk&type=wide" width="652" alt="Enis Kastrati's Dev Card"/></a>
 
 #### Connect with me:
 [<img align="center" alt="eniskastrati.com" width="37px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
