@@ -17,16 +17,14 @@ A software developer from Stuttgart, Germany. I have a passion for programming a
 <div align="center">
 <a href="https://app.daily.dev/enis"><img src="https://api.daily.dev/devcards/v2/1oAPWzajw.png?r=ldk&type=wide" width="652" alt="Enis Kastrati's Dev Card"/></a>
 
+[![Statuspage](https://img.shields.io/badge/EKdev-Statuspage-43B02A?style=for-the-badge&logo=statuspal&logoColor=white)](https://ekdev.betteruptime.com)
+
 ##### Deployments:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5fa55721-e04e-4360-8423-21acd8bc493a/deploy-status)](https://drehmomentapp.netlify.app)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/43173b33-aad7-4911-aaa2-ffdb4ec318d6/deploy-status)](https://eniskastrati.de)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/76a57641-b73f-4e14-bfad-05f2af8b0164/deploy-status)](https://app.netlify.com/sites/eniskastratiold/deploys)
 [![github-page-deployment](https://github.com/eniskastrati/blackjack/actions/workflows/pages/pages-build-deployment/badge.svg)](https://eniskastrati.github.io/blackjack/)
 [![pages-build-deployment](https://github.com/eniskastrati/rockpaperscissors/actions/workflows/pages/pages-build-deployment/badge.svg)](https://eniskastrati.github.io/rockpaperscissors/)
-##### Status:
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/128je.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/128k5.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/128k7.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ##### Connect with me:
 [![Website](https://img.shields.io/badge/Website-092540?style=for-the-badge&logo=similarweb&logoColor=white)](https://www.eniskastrati.de/)
