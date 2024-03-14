@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Enis</h1>
 
-A software developer from Stuttgart, Germany. I have a passion for programming and a strong desire to continuously improve my skills
+A software developer based in Germany. I have a passion for programming and a strong desire to continuously improve my skills
 </div>
 
 - 🌱 Interested in Tech
