@@ -15,7 +15,7 @@ A software developer based in Germany. I have a passion for programming and a st
  />
  -->
 <div align="center">
-<a href="https://app.daily.dev/enis"><img src="https://api.daily.dev/devcards/v2/1oAPWzajw.png?type=default&r=n6s" width="356" alt="Enis Kastrati's Dev Card"/></a>
+<a href="https://app.daily.dev/enis"><img src="https://api.daily.dev/devcards/v2/1oAPWzajw.png?type=wide&r=n6s" width="652" alt="Enis Kastrati's Dev Card"/></a>
 
 [![Statuspage](https://img.shields.io/badge/EKdev-Statuspage-43B02A?style=for-the-badge&logo=statuspal&logoColor=white)](https://ekdev.betteruptime.com)
 
